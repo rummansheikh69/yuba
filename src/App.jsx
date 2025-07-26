@@ -128,7 +128,7 @@ function App() {
       {/* how to buy  */}
       <div
         id="howtobuy"
-        className=" px-5 md:px-32 pb-20 relative pt-1 bg-[#cfe5ff]"
+        className=" px-2 md:px-32 pb-20 relative pt-1 bg-[#cfe5ff]"
       >
         <div className=" absolute w-full -bottom-5 md:-bottom-14 left-0 right-0">
           <img src="/top-cloud.png" className=" " alt="" />
@@ -136,9 +136,9 @@ function App() {
         <h1 className=" text-center mt-5 text-4xl md:text-7xl hero text-white text-stroke">
           HOW TO BUY
         </h1>
-        <div className=" mt-10 grid grid-cols-2">
+        <div className=" mt-10 grid grid-cols-2 gap-1">
           <div className=" relative">
-            <div className=" w-64 md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
+            <div className=" w-full md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
               <div className=" w-full h-full relative flex flex-col justify-center items-center gap-5">
                 <h1 className=" text-2xl next text-center">
                   1. Download Phantom wallet
@@ -150,7 +150,7 @@ function App() {
             </div>
           </div>
           <div className=" relative md:mt-0 mt-5">
-            <div className=" w-64 md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
+            <div className=" w-full md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
               <div className=" w-full h-full relative flex flex-col justify-center items-center gap-5">
                 <h1 className=" text-2xl next text-center">2. Get SOL</h1>
                 <h2 className=" text-center heading">
@@ -161,7 +161,7 @@ function App() {
             </div>
           </div>
           <div className=" relative mt-5 md:mt-10">
-            <div className=" float-end w-64 md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
+            <div className=" md:float-end w-full md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
               <div className=" w-full h-full relative flex flex-col justify-center items-center gap-5">
                 <h1 className=" text-2xl next text-center">3. Go To Bonk</h1>
                 <h2 className=" text-center heading">
@@ -171,8 +171,8 @@ function App() {
               </div>
             </div>
           </div>
-          <div className=" relative mt-5 md:mt-10">
-            <div className="float-end  w-64 md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
+          <div className=" relative mt-10 md:mt-10">
+            <div className="md:float-end  w-full md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
               <div className=" w-full h-full relative flex flex-col justify-center items-center gap-5">
                 <h1 className=" text-2xl next text-center">4. Swap $YUBA</h1>
                 <h2 className=" text-center heading">
