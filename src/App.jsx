@@ -177,7 +177,7 @@ function App() {
                 <h1 className=" text-2xl next text-center">4. Swap $YUBA</h1>
                 <h2 className=" text-center heading">
                   Click and select $YUBA token or paste the Token Contract
-                  Address into Jupiter and swap SOL for $YUBA.
+                  Address into Bonk and swap SOL for $YUBA.
                 </h2>
               </div>
             </div>
