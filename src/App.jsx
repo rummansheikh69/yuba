@@ -22,7 +22,7 @@ function App() {
               <p className=" heading">Memes</p>
             </a>
           </div>
-          <a href="https://letsbonk.fun/token/E87bPRZzXSQAX3JuwAnquj9GTQCvQUi2c4S6FDRbonk">
+          <a href="https://letsbonk.fun/token/fga1qw5CZhmckvjL3G93pbnifTq757jAvDYqQ9Fbonk">
             <button className=" px-4 py-1 next bg-button rounded-lg border border-black shadow-[2px_2px_0px_0px_rgba(0,_0,_0,_0.35)]">
               BUY
             </button>
@@ -78,7 +78,7 @@ function App() {
         <div className=" flex items-center justify-center">
           <div className=" w-96 md:w-max gap-5 flex items-center mt-5 md:mt-10 py-2 px-5 bg-white justify-between rounded-full border-2 border-black">
             <h1 className=" heading truncate">
-              EvHESBFUXtWXuE5snGYp6gPm9XtpdGqdoHYhJuGbonk
+              fga1qw5CZhmckvjL3G93pbnifTq757jAvDYqQ9Fbonk
             </h1>
             <div className=" p-1 rounded-full bg-button border-2 border-black">
               <FaArrowTurnUp />
