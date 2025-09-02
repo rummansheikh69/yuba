@@ -7,7 +7,7 @@ function App() {
       {/* navbar  */}
       <div className="fixed z-50 top-0 px-5 md:px-32 w-full">
         <div className="  bg-white w-full mt-5 rounded-xl border-2 border-black px-5 flex items-center py-2 justify-between">
-          <h1 className=" text-3xl hero">$YUBA</h1>
+          <h1 className=" text-3xl hero">$NUBA</h1>
           <div className=" hidden md:flex items-center gap-5">
             <a href="/">
               <p className=" heading">Home</p>
@@ -101,23 +101,23 @@ function App() {
               WHAT IS
             </h1>
             <h1 className=" text-5xl md:text-6xl ex text-white text-stroke">
-              YUBA?
+              NUBA?
             </h1>
             <div className=" mt-5 w-full border-4 border-black rounded-xl p-5 bg-white">
               <h1 className=" text-2xl md:text-3xl hero">
-                WHAT IS THE NARRATIVE OF $YUBA?
+                WHAT IS THE NARRATIVE OF $NUBA?
               </h1>
 
               <div className=" border-b border-black my-3" />
 
               <p className=" ex">
-                YUBA began as a playful cat chasing leaves under a tree — but
+                NUBA began as a playful cat chasing leaves under a tree — but
                 quickly wandered into magic, snacks, boats, and the far edge of
-                the galaxy. By day, YUBA lounges on the street or skydives just
+                the galaxy. By day, NUBA lounges on the street or skydives just
                 for fun; by night, he casts spells, drifts through stars, and
                 leaves traces of chaos across the Solana blockchain. He’s not
                 just a meme — he’s a cosmic glitch wrapped in fur and dreams.
-                Welcome to YUBA: the wandering spirit of Solana.{" "}
+                Welcome to NUBA: the wandering spirit of Solana.{" "}
               </p>
             </div>
           </div>
@@ -174,10 +174,10 @@ function App() {
           <div className=" relative mt-10 md:mt-10">
             <div className="md:float-end  w-full md:w-72 px-5 h-72 md:h-80  bg-white border-2 border-black rounded-3xl">
               <div className=" w-full h-full relative flex flex-col justify-center items-center gap-5">
-                <h1 className=" text-2xl next text-center">4. Swap $YUBA</h1>
+                <h1 className=" text-2xl next text-center">4. Swap $NUBA</h1>
                 <h2 className=" text-center heading">
-                  Click and select $YUBA token or paste the Token Contract
-                  Address into Bonk and swap SOL for $YUBA.
+                  Click and select $NUBA token or paste the Token Contract
+                  Address into Bonk and swap SOL for $NUBA.
                 </h2>
               </div>
             </div>
@@ -194,7 +194,7 @@ function App() {
 
         <p className=" text-center hero text-3xl">
           {" "}
-          © {new Date().getFullYear()} YUBA
+          © {new Date().getFullYear()} NUBA
         </p>
       </div>
       {/* memes end */}
