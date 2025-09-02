@@ -12,7 +12,7 @@ function App() {
             <a href="/">
               <p className=" heading">Home</p>
             </a>
-            <a href="#about">
+            <a href="https://x.com/nuba_on_sol">
               <p className=" heading">About</p>
             </a>
             <a href="#howtobuy">
